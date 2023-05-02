@@ -21,8 +21,6 @@ def end_program():
     print('Closing Program.')
     exit()
 
-  
-
 #Dictionary Internal Menu, this makes easier for the program to access the functions that may be increased if needed.
 basic = {
     "+":soma,
